@@ -1,4 +1,3 @@
-<!-- Animated Name at the Top -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7AE03&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Neha+Budhiraja+%F0%9F%91%8B" alt="Animated Name" />
 </p>
@@ -33,24 +32,33 @@
 </div>
 
 ---
-<!-- Main stats -->
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/neha-budhiraja/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/neha_budhiraja/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nehab19&show_icons=true&theme=github_dark&hide_title=true&hide_border=true" width="450" />
 </p>
 
-<!-- Streak stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehab19&theme=github-dark&hide_border=true" width="450" />
 </p>
 
-<!-- Top languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehab19&layout=compact&theme=github_dark&hide_border=true" width="450" />
 </p>
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-budhiraja/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/neha_budhiraja/)
 
 ---
 
@@ -61,7 +69,6 @@
 
 ---
 
-<!-- Wider Typing SVG for Closing Message -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AE03&center=true&vCenter=true&multiline=true&width=700&lines=Keep+coding+and+dancing!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
