@@ -71,7 +71,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7AE03&center=true&vCenter=true&width=1000&lines=Keep+coding+and+dancing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7AE03&center=true&vCenter=true&width=1000&lines=Keep+coding+and+dancing!" alt="Typing SVG" />
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7AE03&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7AE03&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
