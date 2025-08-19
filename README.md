@@ -59,5 +59,5 @@ I'm a developer who loves building robust backend systems and seamless microserv
 
 <!-- Playful closing line -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AE03&center=true&vCenter=true&multiline=true&width=435&lines=Keep+coding+and+dancing!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AE03&center=true&vCenter=true&multiline=true&width=600&lines=Keep+coding+and+dancing!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
