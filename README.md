@@ -33,7 +33,20 @@
 </div>
 
 ---
+<!-- Main stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nehab19&show_icons=true&theme=github_dark&hide_title=true&hide_border=true" width="450" />
+</p>
 
+<!-- Streak stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehab19&theme=github-dark&hide_border=true" width="450" />
+</p>
+
+<!-- Top languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehab19&layout=compact&theme=github_dark&hide_border=true" width="450" />
+</p>
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-budhiraja/)
