@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7AE03&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Neha+Budhiraja+%F0%9F%91%8B" alt="Animated Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7AE03&center=true&vCenter=true&width=1300&lines=Hi%2C+I'm+Neha+Budhiraja+%F0%9F%91%8B" alt="Animated Name" />
 </p>
 
 <p align="center">
@@ -70,5 +70,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AE03&center=true&vCenter=true&multiline=true&width=900&lines=Keep+coding+and+dancing!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AE03&center=true&vCenter=true&multiline=true&width=1300&lines=Keep+coding+and+dancing!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
