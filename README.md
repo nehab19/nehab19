@@ -70,5 +70,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AE03&center=true&vCenter=true&multiline=true&width=700&lines=Keep+coding+and+dancing!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AE03&center=true&vCenter=true&multiline=true&width=900&lines=Keep+coding+and+dancing!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
